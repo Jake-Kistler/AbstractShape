@@ -1,6 +1,4 @@
 //Jake Kistler
-//Advanced java
-//OCCC Spring
 //Rectangle class
 public class Rectangle extends Shape
 {
