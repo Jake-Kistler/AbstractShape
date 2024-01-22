@@ -1,6 +1,4 @@
 //Jake Kistler
-//Advanced java
-//OCCC Spring
 //ShapeTester
 
 import java.awt.Color;
