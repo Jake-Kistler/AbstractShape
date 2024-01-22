@@ -1,9 +1,5 @@
 //Jake Kistler
-//Advanced java
-//OCCC Spring
 //Ellipse class
-
-
 
 public class Ellipse extends Shape
 {
