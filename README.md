@@ -1,0 +1,1 @@
+This project is an example of how inheritance works in OOP. The parent is an abstract shape that has simple attributes all shapes have defined. It also defines the methods the various children's shapes will need to implement. 
