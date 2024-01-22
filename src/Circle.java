@@ -1,6 +1,4 @@
 //Jake Kistler
-//Advanced java
-//OCCC Spring
 //Circle class
 
 public class Circle extends Ellipse
