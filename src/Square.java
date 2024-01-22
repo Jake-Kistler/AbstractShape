@@ -1,6 +1,4 @@
 //Jake Kistler
-//Advanced java
-//OCCC Spring
 //Square class
 
 public class Square extends Rectangle
