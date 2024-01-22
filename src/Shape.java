@@ -1,6 +1,4 @@
 //Jake Kistler
-//Advanced java
-//OCCC Spring
 //Shape class
 
 import java.awt.Color;
